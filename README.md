@@ -1,7 +1,7 @@
 # boredom
 
 ## are you bored?
-	yes
+	no
 
 ## why are you bored?
 	i'm not bored anymore there's so much going on
@@ -13,7 +13,7 @@
 	21
 	
 ## recipes?
-	yeah probably. just remind me
+	yeah probably. just ask me
 	
 ## favorite organ?
 	kidney

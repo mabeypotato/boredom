@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: strict_functions
+Version: 2020.2.4
+Summary: Decorators for function scope control, overloading, type safety, thread safety, cache control, tracing and even self awareness!
+Home-page: https://github.com/CodyKochmann/strict_functions
+Download-URL: https://github.com/CodyKochmann/strict_functions/tarball/2020.2.4
+Author: Cody Kochmann
+Author-email: kochmanncody@gmail.com
+Keywords: strict_functions,scope,overload,overloading,type,enforce,strict,restrict,strict defaults,defaults
+

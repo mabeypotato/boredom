@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: generators
+Version: 2020.4.27
+Summary: a high performance pipeline processor written in python
+Home-page: https://github.com/CodyKochmann/generators
+Download-URL: https://github.com/CodyKochmann/generators/tarball/2020.4.27
+Author: Cody Kochmann
+Author-email: kochmanncody@gmail.com
+Keywords: generators,iter,itertools,combinations,pipe,pipeline,performance,fast,chain,iterate,gen,Generator
+Requires-Dist: strict-functions
+

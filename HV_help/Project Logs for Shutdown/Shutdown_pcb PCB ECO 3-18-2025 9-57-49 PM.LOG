@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=NetBig Current_1 Pin=Big-1
+Removed Pin From Net: NetName=NetBig Current_2 Pin=Big-2
+Removed Pin From Net: NetName=VCC Pin=Power-1
+Removed Pin From Net: NetName=NetLatch_3 Pin=Power-2
+Removed Pin From Net: NetName=GND Pin=Power-3
+Removed Pin From Net: NetName=NetBig Current_1 Pin=Relay1-7
+Removed Pin From Net: NetName=NetD1_1 Pin=Relay1-11
+Removed Pin From Net: NetName=NetD2_1 Pin=Relay2-11
+Removed Pin From Net: NetName=NetBig Current_2 Pin=Relay3-6
+Removed Pin From Net: NetName=NetD3_1 Pin=Relay3-11
+Removed Member From Class: ClassName=Shutdown_sch Member=Big
+Removed Member From Class: ClassName=Shutdown_sch Member=Power
+Removed Member From Class: ClassName=Shutdown_sch Member=Signals
+Change Component Footprint: Designator=Relay1 Old Footprint=RELAY6_J1021CS312VDC.20_CRS New Footprint=J1021CS512VDC.45-Footprint-2
+Change Component Footprint: Designator=Relay2 Old Footprint=RELAY6_J1021CS312VDC.20_CRS New Footprint=J1021CS512VDC.45-Footprint-2
+Change Component Footprint: Designator=Relay3 Old Footprint=RELAY6_J1021CS312VDC.20_CRS New Footprint=J1021CS512VDC.45-Footprint-2
+Change Component Comment : Designator=Relay1 Old Comment=J1021CS312VDC.20 New Comment=J1021CS512VDC.45
+Change Component Comment : Designator=Relay2 Old Comment=J1021CS312VDC.20 New Comment=J1021CS512VDC.45
+Change Component Comment : Designator=Relay3 Old Comment=J1021CS312VDC.20 New Comment=J1021CS512VDC.45
+Change Managed Component Library Link : Designator=Relay1 Old VaultGUID=3a9a267c-729f-4d58-908d-38f28439e999 New VaultGUID=B37345E8-7541-4583-9BBF-6F428033880B Old ItemGUID=96381F60-F406-4A46-B8EC-2B2A3A9D71B5 New ItemGUID=c8eb6fed-9f10-4c6e-8458-9fe48ab4fc35 Old RevisionGUID=32177024-5BF2-4639-BE78-FA787B5B4D77 New RevisionGUID=a5117fe6-2ee4-4aee-b923-583c8c153652
+Change Managed Component Library Link : Designator=Relay2 Old VaultGUID=3a9a267c-729f-4d58-908d-38f28439e999 New VaultGUID=B37345E8-7541-4583-9BBF-6F428033880B Old ItemGUID=96381F60-F406-4A46-B8EC-2B2A3A9D71B5 New ItemGUID=c8eb6fed-9f10-4c6e-8458-9fe48ab4fc35 Old RevisionGUID=32177024-5BF2-4639-BE78-FA787B5B4D77 New RevisionGUID=a5117fe6-2ee4-4aee-b923-583c8c153652
+Change Managed Component Library Link : Designator=Relay3 Old VaultGUID=3a9a267c-729f-4d58-908d-38f28439e999 New VaultGUID=B37345E8-7541-4583-9BBF-6F428033880B Old ItemGUID=96381F60-F406-4A46-B8EC-2B2A3A9D71B5 New ItemGUID=c8eb6fed-9f10-4c6e-8458-9fe48ab4fc35 Old RevisionGUID=32177024-5BF2-4639-BE78-FA787B5B4D77 New RevisionGUID=a5117fe6-2ee4-4aee-b923-583c8c153652
+Change component parameters: Designator = "Relay1" ("Relay1"); Footprint = "RELAY6_J1021CS312VDC.20_CRS"; UniqueID = "\TXZHMHNZ" ("\TXZHMHNZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Form"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operate Time"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Relay2" ("Relay2"); Footprint = "RELAY6_J1021CS312VDC.20_CRS"; UniqueID = "\VAWZLGUP" ("\VAWZLGUP")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Form"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operate Time"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Relay3" ("Relay3"); Footprint = "RELAY6_J1021CS312VDC.20_CRS"; UniqueID = "\PMPDPJBA" ("\PMPDPJBA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Form"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operate Time"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Big Current(FP-43650-0205-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "7672643"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=Input(FP-43650-0603-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Ramp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "298086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESA60-630X240)
+Add component (AddParameter): Name = "Case\/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MetalFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_MFR_2013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 6.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MFR-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm\/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBig Current_1 Pin=Big Current-1
+Added Pin To Net: NetName=NetBig Current_2 Pin=Big Current-2
+Added Pin To Net: NetName=GND Pin=Big Current-3
+Added Pin To Net: NetName=GND Pin=Big Current-4
+Added Pin To Net: NetName=VCC Pin=Input-1
+Added Pin To Net: NetName=NetLatch_3 Pin=Input-2
+Added Pin To Net: NetName=GND Pin=Input-3
+Added Pin To Net: NetName=GND Pin=Input-7
+Added Pin To Net: NetName=GND Pin=Input-8
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=NetD1_1 Pin=Relay1-2
+Added Pin To Net: NetName=NetBig Current_1 Pin=Relay1-6
+Added Pin To Net: NetName=NetD2_1 Pin=Relay2-2
+Added Pin To Net: NetName=NetD3_1 Pin=Relay3-2
+Added Pin To Net: NetName=NetBig Current_2 Pin=Relay3-4
+Change Net Name : Old Net Name=NetLatch_3 New Net Name=NetInput_2
+Added Pin To Net: NetName=NetInput_4 Pin=Input-4
+Added Pin To Net: NetName=NetInput_4 Pin=Latch-4
+Added Net: Name=NetInput_4
+Added Pin To Net: NetName=NetInput_5 Pin=Input-5
+Added Pin To Net: NetName=NetInput_5 Pin=Latch-6
+Added Net: Name=NetInput_5
+Added Pin To Net: NetName=NetInput_6 Pin=Input-6
+Added Pin To Net: NetName=NetInput_6 Pin=Mos4-1
+Added Pin To Net: NetName=NetInput_6 Pin=R4-1
+Added Net: Name=NetInput_6
+Added Pin To Net: NetName=NetRelay1_4 Pin=Relay1-4
+Added Pin To Net: NetName=NetRelay1_4 Pin=Relay2-6
+Added Net: Name=NetRelay1_4
+Added Pin To Net: NetName=NetRelay2_4 Pin=Relay2-4
+Added Pin To Net: NetName=NetRelay2_4 Pin=Relay3-6
+Added Net: Name=NetRelay2_4
+Added Member To Class: ClassName=Shutdown_sch Member=Component Big Current 43650-0205
+Added Member To Class: ClassName=Shutdown_sch Member=Component Input 43650-0603
+Added Member To Class: ClassName=Shutdown_sch Member=Component R4 MFR-25FBF5210K

@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Shutdown.PrjPcb]
+   Generated File[Shutdown_pcb_Copper_Signal_Top.gbr]
+   Generated File[Shutdown_pcb_Copper_Signal_Bot.gbr]
+   Generated File[Shutdown_pcb_Legend_Top.gbr]
+   Generated File[Shutdown_pcb_Legend_Bot.gbr]
+   Generated File[Shutdown_pcb_Soldermask_Top.gbr]
+   Generated File[Shutdown_pcb_Soldermask_Bot.gbr]
+   Generated File[Shutdown_pcb_Paste_Top.gbr]
+   Generated File[Shutdown_pcb_Paste_Bot.gbr]
+   Generated File[Shutdown_pcb_Keep-out.gbr]
+   Generated File[Shutdown_pcb_Profile.gbr]
+   Generated File[Shutdown_pcb_NPTH_Drill.gbr]
+   Generated File[Shutdown_pcb_PTH_Drill.gbr]
+   Generated File[Shutdown_pcb.EXTREP]
+   Generated File[Shutdown_pcb.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 12:04:46 AM On 3/19/2025
